@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-01T02:27:16 IST" name="Default suite" finished-at="2020-01-01T02:29:15 IST" duration-ms="118618">
+    <groups>
+    </groups>
+    <test started-at="2020-01-01T02:27:16 IST" name="Default test" finished-at="2020-01-01T02:29:15 IST" duration-ms="118618">
+      <class name="package2_com.zerodha.ZerodhTest">
+        <test-method signature="openBrowserAndApplication()[pri:1, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:27:16 IST" name="openBrowserAndApplication" finished-at="2020-01-01T02:28:26 IST" duration-ms="69941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndApplication -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:26 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:28:26 IST" duration-ms="92" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openBrowserAndApplication status=SUCCESS method=ZerodhTest.openBrowserAndApplication()[pri:1, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method signature="isApplicationOpen()[pri:2, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:26 IST" name="isApplicationOpen" finished-at="2020-01-01T02:28:28 IST" duration-ms="1086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isApplicationOpen -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:28 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:28:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=isApplicationOpen status=SUCCESS method=ZerodhTest.isApplicationOpen()[pri:2, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method signature="setUNMethod()[pri:3, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:28 IST" name="setUNMethod" finished-at="2020-01-01T02:28:31 IST" duration-ms="3755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUNMethod -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:31 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:28:31 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setUNMethod status=SUCCESS method=ZerodhTest.setUNMethod()[pri:3, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method signature="setPwdMethod()[pri:4, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:31 IST" name="setPwdMethod" finished-at="2020-01-01T02:28:34 IST" duration-ms="2919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPwdMethod -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:34 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:28:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setPwdMethod status=SUCCESS method=ZerodhTest.setPwdMethod()[pri:4, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method signature="clickLoginMethod()[pri:5, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:34 IST" name="clickLoginMethod" finished-at="2020-01-01T02:28:38 IST" duration-ms="3884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginMethod -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:38 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:28:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickLoginMethod status=SUCCESS method=ZerodhTest.clickLoginMethod()[pri:5, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method signature="setPinMethod()[pri:6, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:38 IST" name="setPinMethod" finished-at="2020-01-01T02:28:41 IST" duration-ms="2424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPinMethod -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:41 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:28:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setPinMethod status=SUCCESS method=ZerodhTest.setPinMethod()[pri:6, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method signature="clickContinueButton()[pri:7, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:41 IST" name="clickContinueButton" finished-at="2020-01-01T02:28:56 IST" duration-ms="15039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContinueButton -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:56 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:28:56 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickContinueButton status=SUCCESS method=ZerodhTest.clickContinueButton()[pri:7, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method signature="checkUserNickname()[pri:8, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:28:56 IST" name="checkUserNickname" finished-at="2020-01-01T02:29:00 IST" duration-ms="4357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserNickname -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:29:00 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:29:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkUserNickname status=SUCCESS method=ZerodhTest.checkUserNickname()[pri:8, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method signature="clickLogout()[pri:9, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:29:00 IST" name="clickLogout" finished-at="2020-01-01T02:29:07 IST" duration-ms="7296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogout -->
+        <test-method is-config="true" signature="checkTestResultforScreenshot(org.testng.ITestResult)[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:29:07 IST" name="checkTestResultforScreenshot" finished-at="2020-01-01T02:29:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickLogout status=SUCCESS method=ZerodhTest.clickLogout()[pri:9, instance:package2_com.zerodha.ZerodhTest@7b227d8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestResultforScreenshot -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:package2_com.zerodha.ZerodhTest@7b227d8d]" started-at="2020-01-01T02:29:07 IST" name="afterClass" finished-at="2020-01-01T02:29:15 IST" duration-ms="7541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- package2_com.zerodha.ZerodhTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
